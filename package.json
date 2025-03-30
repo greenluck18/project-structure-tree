@@ -1,0 +1,27 @@
+{
+  "name": "project-structure-tree",
+  "version": "1.6.0",
+  "description": "Prints a project folder structure in a tree format.",
+  "type": "commonjs",
+  "main": "./index.js",
+  "bin": {
+    "project-structure-tree": "./index.js",
+    "pst": "./index.js"
+  },
+  "dependencies": {
+    "ignore": "^7.0.3"
+  },
+  "license": "MIT",
+  "author": "Halyna Mazur",
+  "keywords": [
+    "project-structure-tree",
+    "project structure tree",
+    "folder structure tree",
+    "directory structure tree",
+    "tree command",
+    "tree command line",
+    "tree cli",
+    "cli tool",
+    "command line tool"
+  ]
+}
