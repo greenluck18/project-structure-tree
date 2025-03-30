@@ -11,6 +11,10 @@
   "dependencies": {
     "ignore": "^7.0.3"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/greenluck18/project-structure-tree.git"
+  },
   "license": "MIT",
   "author": "Halyna Mazur",
   "keywords": [
